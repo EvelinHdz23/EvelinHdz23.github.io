@@ -1,5 +1,7 @@
 # EvelinHdz23.github.io
-https://github.com/EvelinHdz23/EvelinHdz23.github.io/blob/main/FOTO%20CURR%C3%8DCULUM.jpg
+github.io/blob/main/FOTO%20CURR%C3%8DCULUM.jpg
+
+
 **Currículum Vitae** 
 
 Evelin Estefanía Hernández Sosa
