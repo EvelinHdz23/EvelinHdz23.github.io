@@ -57,9 +57,19 @@ Estudios de Secundaria finalizados en la Secundaria General #12.
 Estudios de Preparatoria finalizados en el Colegio de Bachilleres del Estado de Tamaulipas Plantel 17.
 
 Estudiante de Tecnologías de la Información y Comunicaciones del Instituto Tecnológico de Reynosa (ITR).
+
+
+
 Diplomas
-Certificación por haber obtenido el primer lugar de aprovechamiento en 6°A
+
+Certificación por haber obtenido el primer lugar de aprovechamiento en 6°A.
+
 Certificado de inglés por haber obtenido el primer lugar de aprovechamiento del idioma en 6°A.
+
+
+
 Idiomas
+
 Español: Idioma nativo
+
 Inglés: Intermedio B1
