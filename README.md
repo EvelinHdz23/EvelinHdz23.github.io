@@ -1,5 +1,5 @@
 # EvelinHdz23.github.io
-Currículum Vitae
+"Esto es negrilla" Currículum Vitae
 
 Evelin Estefanía Hernández Sosa
 
@@ -16,7 +16,8 @@ Fecha de nacimiento: 20/10/2004
 Nacionalidad: Mexicana
 
 
-Aptitudes
+
+"ESto es negrilla" Aptitudes
 
 Trabajo en equipo
 
@@ -41,12 +42,14 @@ Liderazgo
 Dominio tecnológico
 
 
-Resumen Profesional
+
+"Esto es negrilla" Resumen Profesional
 
 Estudiante de Tecnologías de la Información y Comunicaciones con gran interés de acceder al mercado laboral para poner en práctica mis conocimientos. Soy una persona trabajadora, comunicativa y comprometida. Desearía encontrar una oportunidad para adquirir experiencia profesional. Además soy muy puntual, responsable y se adaptarme fácilmente. 
 
 
-Formación Académica
+
+"Esto es negrilla" Formación Académica
 
 Promedio general de calificaciones: 9.8
 
@@ -60,7 +63,7 @@ Estudiante de Tecnologías de la Información y Comunicaciones del Instituto Tec
 
 
 
-Diplomas
+"Esto es negrilla" Diplomas
 
 Certificación por haber obtenido el primer lugar de aprovechamiento en 6°A.
 
@@ -68,7 +71,7 @@ Certificado de inglés por haber obtenido el primer lugar de aprovechamiento del
 
 
 
-Idiomas
+"Esto es negrilla" Idiomas
 
 Español: Idioma nativo
 
