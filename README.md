@@ -1,5 +1,5 @@
 # EvelinHdz23.github.io
-github.io/blob/main/FOTO%20CURR%C3%8DCULUM.jpg
+FOTO%20CURR%C3%8DCULUM.jpg
 
 
 **Currículum Vitae** 
